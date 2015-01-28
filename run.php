@@ -46,7 +46,7 @@ namespace W;
 class Model
 {
 	private static $rain_check_days = 2; // max 10
-	private static $debug = true;
+	private static $debug = false;
 
 	private static $calendar = array(
 		1  => array( 'name' => 'January',   'temperature_basis' => 'Low',  'multiplier' => 1.0 ),
