@@ -37,7 +37,7 @@
  * @author Waheed Ayubi <wayubi@gmail.com>
  * @copyright 2015 Waheed Ayubi
  * @license http://opensource.org/licenses/MIT MIT License (MIT)
- * @link http://www.github.com/asdf
+ * @link https://github.com/wayubi/Wachio
  * 
  */
 
